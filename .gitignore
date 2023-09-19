@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+
+*.gif
+/gopl.io/ch1/lissajous/lissajous
