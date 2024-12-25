@@ -24,3 +24,5 @@ go.work
 *.gif
 /gopl.io/ch1/lissajous/lissajous
 gopl.io/ch1/exercise1*
+*.test.txt
+/gopl.io/ch1/fetch
